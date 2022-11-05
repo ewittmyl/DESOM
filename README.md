@@ -4,7 +4,7 @@ This Python package is modified based on the **Florent Version**.
 
 DESOM is an unsupervised learning model that jointly learns representations and the code vectors of a self-organizing map (SOM) in order to survey, cluster and visualize large, high-dimensional datasets. Our model is composed of an autoencoder and a custom SOM layer that are optimized in a joint training procedure, motivated by the idea that the SOM prior could help learning SOM-friendly representations. Its training is fast, end-to-end and requires no pre-training.
 
-<img src="./fig/desom_map.png" width=300 height=300/><img src="./fig/desom_map_fmnist.png" width=300 height=300/>
+<img src="./fig/desom_map.png" width=400 height=400/>
 
 When using this code, please cite following work:
 
